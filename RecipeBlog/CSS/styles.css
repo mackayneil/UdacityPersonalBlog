@@ -88,7 +88,7 @@ h1 {
 /* Main section */
 
 .hero-section {
-    background-image: url("Assets/Hero Image.jpg");
+    background-image: url("../Assets/Hero Image.jpg");
     height: 360px;
     background-position: bottom;
     background-size: cover;
